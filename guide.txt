@@ -1,0 +1,9 @@
+data/speech_commands/raw/
+
+python -m training.datasets.prepare_dataset
+
+python -m training.train
+
+python -m training.infer_mic
+
+python -m training.eval

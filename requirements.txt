@@ -1,0 +1,7 @@
+torch
+torchaudio
+numpy
+sounddevice
+tqdm
+scikit-learn
+matplotlib
